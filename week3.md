@@ -7,6 +7,9 @@
 - AI에게 현재 불편하거나 뻐근한 부위를 설명하고, 그에 맞는 요가 자세를 추천받는다.
 - 추천받은 자세를 실제로 따라 해본다.
 - 주 2회 이상 실천하며 변화 관찰하기.
+가이드라인:
+<img width="550" alt="FireShot Capture 005 - 요가 이미지 추천 -  chatgpt com" src="https://github.com/user-attachments/assets/9399f038-6b05-4946-96f9-43468a9ec2fa" />
+
 
 ### 퀘스트 2: AI 격려 파트너
 
